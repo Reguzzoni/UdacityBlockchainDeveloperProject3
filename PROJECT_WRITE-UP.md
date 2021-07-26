@@ -29,15 +29,21 @@ Classes (Data Model)
 
 ## Part 2: Project write-up - Libraries ##
 npm: 6.13.4
+
 node: 10.18.0
 
 truffle: 4.1.14 - development environment, test and asset
+
 openzeppelin-solidity: ^2.3.0 - library for secure smart contract development
+
 web3: ^1.4.0" - to connect on blockchain
+
 Solidity: v0.4.24 - to compile solidity language
 
 js-yaml: ^4.1.0 - to import YML property file
+
 truffle-hdwallet-provider: ^1.0.17 - to manage connection to wallet from truffle
+
 Infura - deploying smart contract
 
 # Requirement 3: Project write-up - IPFS #
